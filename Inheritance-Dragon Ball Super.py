@@ -1,4 +1,4 @@
-#Dragon Ball Z
+#Dragon Ball Super based Topic
 
 class MartialArtsTournament:
     
